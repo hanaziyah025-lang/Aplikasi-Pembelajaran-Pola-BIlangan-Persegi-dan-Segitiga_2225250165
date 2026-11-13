@@ -12,4 +12,5 @@
 
 Jangan masukkan `service_role` key ke aplikasi browser. Tanpa konfigurasi `.env`, aplikasi tetap menyimpan skor di `localStorage`.
 ## Deploy
-Unggah ke GitHub, impor di vercel.com (gratis) → dapat link. Di Chrome Android: menu ⋮ → Tambahkan ke layar utama.
+Unggah ke GitHub, impor di vercel.com (gratis) → dapat link. Di Chrome Android: menu ⋮ → Tambahkan ke layar utama
+Web: https://pola-bilangan.vercel.app
